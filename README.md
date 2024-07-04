@@ -1,2 +1,2 @@
 # testing-2
-testing repo
+testing repo telugu skill
